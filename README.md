@@ -8,11 +8,12 @@
 
 **[Periodic table](https://sravanirc.github.io/periodicTable/) :** _This is a website displaying all the elements of the periodic table as a responsive page._
 
-**[Meal Maker](https://sravanirc.github.io/MealMaker/) :** _This is website which gives a meal recommendation from a predefined list of choices. The meal consits of Starter, Main course and Dessert._
+**[Meal Maker](https://sravanirc.github.io/MealMaker/) :** _This is website which gives a meal recommendation from a predefined list of choices. The meal consists of a Starter, Main course and Dessert._
 
-**[Tribute to Paulo Coelho](https://sravanirc.github.io/tributeToPauloCoelho/) :** _This is a tribute page I created in honor of Paulo Coelho , a Brazialian author whose works made me think out of the box._
+**[Tribute to Paulo Coelho](https://sravanirc.github.io/tributeToPauloCoelho/) :** _This is a tribute page I created in honor of Paulo Coelho , a Brazilian author whose works made me think out of the box._
 
-**[My Portfolio](https://sravanirc.github.io/sravani-ravuri-portfolio/) :** _This a webpage I designed to showcase some my work and also to intorduce myself. This is a work in progress and I am continuosly working on this._
+**[Budget Master]( https://sravanirc.github.io/budgetMaster/) :** _This simple budgeting website uses sessionStorage to save totals. It comes with a set of pre-populated incomes and expenditures._ 
+**[My Portfolio](https://sravanirc.github.io/sravani-ravuri-portfolio/) :** _This a webpage I designed to showcase some my work and also to introduce myself. This is a work in progress and I am continuously working on this._
 
 **[My repos](https://github.com/sravanirc?tab=repositories) :** _Here is a link to my repositories where you can find all of my repositories._
 
