@@ -5,7 +5,28 @@
 
 <h2 align="center">💻 My work 💻</h2>
 <p> Here are some of the pages developed by me: </p>
+### 🔐 Fraud Monitoring Dashboard – [Private Repo]  
+**[Demo](https://drive.google.com/file/d/16IWJFTAImXkpCEmqb0Iz6hKs0cStPn78/view?usp=sharing)**  
+Designed and developed the frontend of a secure, scalable fraud analytics dashboard using **Elixir**, **Phoenix LiveView**, and **PostgreSQL**. Key features include:
+- Role-based access control  
+- Drill-down views for transaction details  
+- Real-time charts with **dynamic filtering**  
+- Optimized for performance and clarity in a high-data volume environment
 
+### 🍽️ Find-a-JEAT  
+**[Repo](https://github.com/sravanirc/find-a-JEat)** • **[Demo](https://drive.google.com/file/d/1SQGPQnFOX7UEQZpDEo2NzRocht2Jyvtl/view?usp=sharing)**  
+Built a responsive web interface using **React** and **Express.js** that integrates with an external API to locate restaurants near a user’s postcode. Features include:
+- User postcode input and top 10 nearby restaurant listings  
+- Smooth UI/UX with **React** and **Tailwind CSS**  
+- Fully responsive, mobile-first design
+
+### 🌍 World Heritage Explorer  
+**[Repo](https://github.com/sravanirc/world_heritage_explorer)** • **[Demo](https://drive.google.com/file/d/1adeIs7c7-tAmsWR7nSnonW5N2xc4In2B/view?usp=sharing)**  
+Developed a user-friendly web application with **Elixir** and **Phoenix LiveView** for exploring world heritage sites. Highlights:
+- Clean, responsive UI with **Tailwind CSS**  
+- Efficient pagination and sorting using **Flop**  
+- Backend powered by **PostgreSQL** in **Docker**, with structured data access via **Ecto**
+- 
 **[CarInventory](https://github.com/sravanirc/CarInventory) :**_A Full Stack web application developed using MERN stack. This app lets user to interact with database holding details of cars. Users can perform CURD operations. Axios used to manage API calls and CORS used for resource sharing.__
 
 **[Pen-n-Cils](https://github.com/sravanirc/pen-n-cils):**_Frontend for a Ecommerce website selling stationary developed with React js. Implemented React Routing, React Bootstrap and custom stylings._
